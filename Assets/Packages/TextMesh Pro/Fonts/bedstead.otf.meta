@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 85c7811de5e74e646b331885d799e426
+guid: 28f4691da54be41458bb03aa955f2585
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,9 +9,8 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Vegur
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 055fd5fa65a26aa46a4edd6d9bc03276, type: 3}
+  - Bedstead
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
