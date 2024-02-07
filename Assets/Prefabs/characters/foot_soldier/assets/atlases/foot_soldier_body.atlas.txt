@@ -1,4 +1,4 @@
-FS_White.png
+foot_soldier_body.png
 	size: 256, 256
 	filter: Linear, Linear
 	pma: true
