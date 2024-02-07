@@ -618,6 +618,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: NextScene
       objectReference: {fileID: 0}
+    - target: {fileID: 4009384041896248186, guid: cc7daa7f213224744850cb144761fd71, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 8067371008
+      objectReference: {fileID: 0}
     - target: {fileID: 5152552783505622008, guid: cc7daa7f213224744850cb144761fd71, type: 3}
       propertyPath: m_Pivot.x
       value: 0
